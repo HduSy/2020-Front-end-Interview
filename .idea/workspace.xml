@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,23 +22,40 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a103bb-6d83-4ede-b4e9-a009af6bad8b" name="Default Changelist" comment="新增'函数式编程及柯里化.md'">
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/LazyMan 链式调用+任务队列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/new操作符做了什么.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/垃圾回收.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/引用类型与原始类型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/箭头函数与this.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/类数组转数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript篇/请写一个闭包并谈谈闭包" afterDir="false" />
+    <list default="true" id="30a103bb-6d83-4ede-b4e9-a009af6bad8b" name="Default Changelist" comment="give up">
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/WebSocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/bind实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/on与addEventListener区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/prototype与__proto__.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/事件流机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/六种继承实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/前端模块化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/发布订阅模式JavaScript实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/浏览器端事件循环之宏任务 微任务与EventLoop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript篇/观察者模式JavaScript实现.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/LazyMan 链式调用+任务队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/LazyMan 链式调用+任务队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/new操作符做了什么.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/new操作符做了什么.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/template.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/template.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript篇/函数式编程及柯里化.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/函数式编程及柯里化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/垃圾回收.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/垃圾回收.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/引用类型与原始类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/引用类型与原始类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/箭头函数与this.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/箭头函数与this.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript篇/类型检查.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/类型检查.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/类数组转数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/类数组转数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript篇/请写一个闭包并谈谈闭包" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript篇/请写一个闭包并谈谈闭包.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MarkDown File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +70,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608118306075</updated>
       <workItem from="1608118307364" duration="3409000" />
-      <workItem from="1608121786480" duration="102000" />
+      <workItem from="1608121786480" duration="2094000" />
     </task>
     <task id="LOCAL-00001" summary="新增'类型检查.md'">
       <created>1608119036951</created>
@@ -83,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608120181414</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="give up">
+      <created>1608121930416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608121930416</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,16 +135,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增'类型检查.md'" />
     <MESSAGE value="新增'函数式编程及柯里化.md'" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增'函数式编程及柯里化.md'" />
+    <MESSAGE value="give up" />
+    <option name="LAST_COMMIT_MESSAGE" value="give up" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="258" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608121664759">
       <screen x="63" y="0" width="1400" height="914" />
     </state>
     <state x="463" y="258" key="#com.intellij.fileTypes.FileTypeChooser/63.0.1400.914@63.0.1400.914" timestamp="1608121664759" />
-    <state x="356" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608120182587">
+    <state x="265" y="102" key="SettingsEditor" timestamp="1608122996501">
       <screen x="63" y="0" width="1400" height="914" />
     </state>
-    <state x="356" y="190" key="Vcs.Push.Dialog.v2/63.0.1400.914@63.0.1400.914" timestamp="1608120182587" />
+    <state x="265" y="102" key="SettingsEditor/63.0.1400.914@63.0.1400.914" timestamp="1608122996501" />
+    <state x="356" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608121934255">
+      <screen x="63" y="0" width="1400" height="914" />
+    </state>
+    <state x="356" y="190" key="Vcs.Push.Dialog.v2/63.0.1400.914@63.0.1400.914" timestamp="1608121934255" />
+    <state x="426" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1608123449833">
+      <screen x="63" y="0" width="1400" height="914" />
+    </state>
+    <state x="426" y="194" width="672" height="678" key="search.everywhere.popup/63.0.1400.914@63.0.1400.914" timestamp="1608123449833" />
   </component>
 </project>
